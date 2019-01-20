@@ -1,29 +1,36 @@
+<!--- Project Logo --->
+
+<a href=""><img src="" alt=""></a>
 -----------------
 [![GitHub license](https://img.shields.io/badge/license-apache-green.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Version](https://img.shields.io/badge/version-0.0.1-red.svg?style=flat)]()
+<!---
+[![Travis Status]()]()
+[![Jenkins Status]()]()
+[![Coverage Status]()]()
+--->
 ## Introduction
 
-This repository maintains the project templates for DiSL projects. You may find some useful templates for your project.
+* item 1
+* item 2
+
+## Problem
+
 
 ## Installation
 
-Just rename the template file (templateX.md/templateX.rst) as README.md/README.rst under the root directory of your project.
 
 ## Supported Platforms
 
-GitHub
 
 ## Development / Contributing
 
-Under development.
 
 ## Issues
 
-Under development.
 
 ## Status
 
-Under development.
 
 ## Contributors
 

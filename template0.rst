@@ -59,8 +59,11 @@ Contributing
 
 Contributions and suggestions are welcomed.
 
+See the `people page <https://github.com/git-disl/project_template/graphs/contributors>`_ for the full listing of contributors.
+
+
 License
 -------
 
-Copyright (c) 20XX-20XX [Georgia Tech DiSL](https://github.com/git-disl)
+Copyright (c) 20XX-20XX `Georgia Tech DiSL <https://github.com/git-disl>`_
 Licensed under the [Apache License](LICENSE).
